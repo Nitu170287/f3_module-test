@@ -15,7 +15,7 @@ body {
 .lat_city_host_name {
     display: flex;
     justify-content: space-between;
-    border: 2px solid red;
+    
     width: 90%;
     margin-left: 100px;
     margin-top: 30px;
